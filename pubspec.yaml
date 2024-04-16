@@ -1,7 +1,7 @@
 name: vertical_card_pager_view
-description: "Description here"
+description: "Vertical Card Pager View for Flutter"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/vertical_card_pager_view
 
 version: 1.0.0+1
 
